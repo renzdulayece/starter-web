@@ -1,7 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+# TEAM POGI
 
     Renz Dulay		renzdulayece@gmail.com		@renzensation
 
